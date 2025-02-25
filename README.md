@@ -1,7 +1,7 @@
 # MyIconos
 
 ## Salida
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/fb48c21a-c35e-4da3-8eee-4913cb34bb0d)
 
 A new Flutter project.
 
